@@ -3,3 +3,4 @@ wusheng233开发的精简博客系统
 A Simplified Blog System Developed by wusheng233
 [![Fork me](https://img.shields.io/badge/github-Fork%20me-green?style=for-the-badge)](https://github.com/wusheng233github/)
 [![Fork me](https://img.shields.io/badge/gitwu-Fork%20me-green?style=for-the-badge)](http://gitwu.iuqaq.com/wusheng233/)
+[![Fork me](https://img.shields.io/badge/gitee-Fork%20me-green?style=for-the-badge)](https://gitee.com/wusheng233/)
