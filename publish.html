@@ -1,0 +1,23 @@
+<form action="./publish.php" method="post">
+<div class="mdui-textfield mdui-textfield-floating-label">
+<label class="mdui-textfield-label">标题</label>
+<input class="mdui-textfield-input" type="text" name="title" required>
+<div class="mdui-textfield-error">标题不能为空</div>
+</div>
+<div class="mdui-textfield mdui-textfield-floating-label">
+<label class="mdui-textfield-label">内容</label>
+<input class="mdui-textfield-input" type="text" name="content" id="input" rows="50" required>
+<div class="mdui-textfield-error">内容不能为空</div>
+</div>
+<div class="mdui-textfield mdui-textfield-floating-label">
+<label class="mdui-textfield-label">昵称</label>
+<input class="mdui-textfield-input" type="text" name="name" required>
+<div class="mdui-textfield-error">用户名不能为空</div>
+</div>
+<div class="mdui-textfield mdui-textfield-floating-label">
+<label class="mdui-textfield-label">Email</label>
+<input class="mdui-textfield-input" type="email" name="email" required>
+<div class="mdui-textfield-error">邮箱格式错误</div>
+</div>
+<input type="submit" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-pink">
+</form>
